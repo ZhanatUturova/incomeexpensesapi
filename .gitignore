@@ -161,3 +161,8 @@ cython_debug/
 
 !*media/.gitkeep
 media/*
+
+.env
+.env.example
+.env.local
+.env.staging
